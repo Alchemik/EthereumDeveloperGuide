@@ -1,4 +1,4 @@
-# ![Ethereum](https://dl1.cbsistatic.com/i/r/2017/10/03/11eef3d6-641e-469a-8fe0-10549858327e/thumbnail/64x64/474d53209137ba2b50c826f42e33a504/imgingest-6405524367492356609.png) Ethereum Developer Guide
+# ![Ethereum](https://logos-world.net/wp-content/uploads/2020/12/Ethereum-Emblem.png) Ethereum Developer Guide
 > Weekly updated collection of Solidity/dApps related articles & tutorials - from beginner to expert.
 
 ### Beginner
